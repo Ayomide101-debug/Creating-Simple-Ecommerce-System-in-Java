@@ -26,5 +26,3 @@ Main class moved to proper package (com.ecommerce.main)
 All files in correct directory structure
 
 Proper encapsulation with getters/setters
-
-This version should compile and run without the "Order cannot be resolved" error. The package structure and imports are now correctly organized according to Java best practices.
